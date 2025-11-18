@@ -3,5 +3,5 @@ I'm Charlie (He/him), a third-year computer science major at the Colorado School
 # I have experience with the following : 
 [![My Skills](https://skillicons.dev/icons?i=java,html,cpp,github,selenium,cmake,git,linux,matlab,ubuntu,eclipse,bootstrap,anaconda)](https://skillicons.dev)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
+
 
